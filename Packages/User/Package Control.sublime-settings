@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Bootstrap 3 Autocomplete",
+		"CloseOtherWindows",
+		"Dracula Color Scheme",
+		"Emmet",
+		"GitGutter",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownHighlighting",
+		"Package Control",
+		"Rails Developer Snippets",
+		"Rails Partial",
+		"Ruby on Rails snippets",
+		"SCSS",
+		"SublimeLinter",
+		"Theme - Primer"
+	]
+}

@@ -1,0 +1,694 @@
+{
+	"folder_history":
+	[
+		"/home/bondarolik/Projects/Freelance/fwfSistemas/fuentenaturalordenes",
+		"/home/bondarolik/Projects/fwfSistemas/sanetizados",
+		"/home/bondarolik/Freelance/wences",
+		"/home/bondarolik/Freelance/fwfSistemas/fuentenaturalordenes",
+		"/home/bondarolik/Projects/cloudcdmanager"
+	],
+	"last_version": 3126,
+	"last_window_id": 16,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 565.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 112.0,
+				"last_filter": "Package Control: insta",
+				"selected_items":
+				[
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 430.0
+			},
+			"console":
+			{
+				"height": 96.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/bondarolik/Freelance/wences/config/environments/development.rb",
+				"/home/bondarolik/Freelance/wences/app/models/communicate.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/communicates_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/views/communicates/_form.html.erb",
+				"/home/bondarolik/Freelance/wences/app/views/communicate_mailer/send_aviso_message.html.erb",
+				"/home/bondarolik/Freelance/wences/app/mailers/communicate_mailer.rb",
+				"/home/bondarolik/Freelance/wences/app/views/layouts/application.html.erb",
+				"/home/bondarolik/Freelance/wences/app/helpers/application_helper.rb",
+				"/home/bondarolik/Freelance/wences/app/views/avisos/index.html.erb",
+				"/home/bondarolik/Freelance/wences/app/views/application/_avisos_grid.html.erb",
+				"/home/bondarolik/Freelance/wences/app/controllers/avisos_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/application_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/models/identity.rb",
+				"/home/bondarolik/Freelance/wences/app/models/user.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/omniauth_callbacks_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/users_controller.rb",
+				"/home/bondarolik/Freelance/wences/config/initializers/devise.rb",
+				"/home/bondarolik/Freelance/wences/app/models/aviso.rb",
+				"/home/bondarolik/Freelance/wences/app/models/ability.rb",
+				"/home/bondarolik/Freelance/wences/app/models/role.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/users/registrations_controller.rb",
+				"/home/bondarolik/Freelance/wences/Gemfile",
+				"/home/bondarolik/Freelance/wences/config/database.yml",
+				"/home/bondarolik/Freelance/wences/config/cable.yml",
+				"/home/bondarolik/Freelance/wences/config/initializers/paperclip_media_type_spoof_detector_override.rb",
+				"/home/bondarolik/Freelance/wences/config/initializers/paperclip.rb",
+				"/home/bondarolik/Freelance/wences/config/secrets.yml",
+				"/home/bondarolik/Freelance/wences/config/routes.rb",
+				"/home/bondarolik/Freelance/wences/README.md",
+				"/home/bondarolik/Freelance/wences/config/environments/production.rb",
+				"/home/bondarolik/Freelance/wences/app/views/avisos/show.html.erb",
+				"/home/bondarolik/Freelance/wences/app/views/avisos/_communicate.html.erb",
+				"/home/bondarolik/Freelance/wences/config/locales/devise.es.yml",
+				"/home/bondarolik/Freelance/wences/db/migrate/20161105200458_add_confirmable_to_users.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/app/models/ability.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/Gemfile",
+				"/home/bondarolik/Projects/cloudcdmanager/config/initializers/secret_token.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/config/initializers/devise.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/config/database.yml",
+				"/home/bondarolik/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"string"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 348.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 740.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/Gemfile",
+					"settings":
+					{
+						"buffer_size": 1950,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "# SQLite version 3.x\n#   gem install sqlite3\n#\n#   Ensure the SQLite 3 gem is defined in your Gemfile\n#   gem 'sqlite3'\n#\ndefault: &default\n  adapter: sqlserver\n  host: 190.12.103.152 # used when dataserver is blank\n  database: 6086_01\n  username: fwfappfn\n  password: '*appFuente2136'\n  # default\n  # port: 1433 # default is 1433\n  # default\n  # mode: dblib\n  # dataserver: <name from freetds.conf>\n  # timeout: 5000\n  # timeout: 0 - to have no timeout\n  # azure: true\n  dsn: \n\ndevelopment:\n  <<: *default\n  database: db/development.sqlite3\n\n# Warning: The database defined as \"test\" will be erased and\n# re-generated from your development database when you run \"rake\".\n# Do not set this db to the same as development or production.\ntest:\n  <<: *default\n  database: db/test.sqlite3\n\nproduction:\n  <<: *default\n  database: db/production.sqlite3\n",
+					"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/config/database.yml",
+					"file_size": 859,
+					"file_write_time": 131232808543153262,
+					"settings":
+					{
+						"buffer_size": 845,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 1625,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/app/controllers/usuarios_controller.rb",
+					"settings":
+					{
+						"buffer_size": 99,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/app/models/usuario.rb",
+					"settings":
+					{
+						"buffer_size": 301,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "class Client < ActiveRecord::Base"
+					}
+				},
+				{
+					"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/app/views/usuarios/index.html.erb",
+					"settings":
+					{
+						"buffer_size": 120,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "index.html.erb"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 112.0,
+				"last_filter": "Package Control: insta",
+				"selected_items":
+				[
+					[
+						"Package Control: insta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: instal",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: isnta",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: inst",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 430.0
+			},
+			"console":
+			{
+				"height": 96.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/bondarolik/Projects/fwfSistemas/sanetizados",
+				"/home/bondarolik/Projects/fwfSistemas/sanetizados/app",
+				"/home/bondarolik/Projects/fwfSistemas/sanetizados/app/controllers",
+				"/home/bondarolik/Projects/fwfSistemas/sanetizados/app/models",
+				"/home/bondarolik/Projects/fwfSistemas/sanetizados/app/views",
+				"/home/bondarolik/Projects/fwfSistemas/sanetizados/config"
+			],
+			"file_history":
+			[
+				"/home/bondarolik/Freelance/wences/config/environments/development.rb",
+				"/home/bondarolik/Freelance/wences/app/models/communicate.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/communicates_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/views/communicates/_form.html.erb",
+				"/home/bondarolik/Freelance/wences/app/views/communicate_mailer/send_aviso_message.html.erb",
+				"/home/bondarolik/Freelance/wences/app/mailers/communicate_mailer.rb",
+				"/home/bondarolik/Freelance/wences/app/views/layouts/application.html.erb",
+				"/home/bondarolik/Freelance/wences/app/helpers/application_helper.rb",
+				"/home/bondarolik/Freelance/wences/app/views/avisos/index.html.erb",
+				"/home/bondarolik/Freelance/wences/app/views/application/_avisos_grid.html.erb",
+				"/home/bondarolik/Freelance/wences/app/controllers/avisos_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/application_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/models/identity.rb",
+				"/home/bondarolik/Freelance/wences/app/models/user.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/omniauth_callbacks_controller.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/users_controller.rb",
+				"/home/bondarolik/Freelance/wences/config/initializers/devise.rb",
+				"/home/bondarolik/Freelance/wences/app/models/aviso.rb",
+				"/home/bondarolik/Freelance/wences/app/models/ability.rb",
+				"/home/bondarolik/Freelance/wences/app/models/role.rb",
+				"/home/bondarolik/Freelance/wences/app/controllers/users/registrations_controller.rb",
+				"/home/bondarolik/Freelance/wences/Gemfile",
+				"/home/bondarolik/Freelance/wences/config/database.yml",
+				"/home/bondarolik/Freelance/wences/config/cable.yml",
+				"/home/bondarolik/Freelance/wences/config/initializers/paperclip_media_type_spoof_detector_override.rb",
+				"/home/bondarolik/Freelance/wences/config/initializers/paperclip.rb",
+				"/home/bondarolik/Freelance/wences/config/secrets.yml",
+				"/home/bondarolik/Freelance/wences/config/routes.rb",
+				"/home/bondarolik/Freelance/wences/README.md",
+				"/home/bondarolik/Freelance/wences/config/environments/production.rb",
+				"/home/bondarolik/Freelance/wences/app/views/avisos/show.html.erb",
+				"/home/bondarolik/Freelance/wences/app/views/avisos/_communicate.html.erb",
+				"/home/bondarolik/Freelance/wences/config/locales/devise.es.yml",
+				"/home/bondarolik/Freelance/wences/db/migrate/20161105200458_add_confirmable_to_users.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/app/models/ability.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/Gemfile",
+				"/home/bondarolik/Projects/cloudcdmanager/config/initializers/secret_token.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/config/initializers/devise.rb",
+				"/home/bondarolik/Projects/cloudcdmanager/config/database.yml",
+				"/home/bondarolik/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings"
+			],
+			"find":
+			{
+				"height": 21.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"string"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/bondarolik/Projects/fwfSistemas/sanetizados"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/Gemfile",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1950,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										232,
+										232
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 5,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/config/database.yml",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 845,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										477,
+										477
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/YAML/YAML.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/config/routes.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1625,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										55,
+										55
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/app/controllers/usuarios_controller.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 99,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										88,
+										88
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/app/models/usuario.rb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 301,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										295,
+										295
+									]
+								],
+								"settings":
+								{
+									"auto_name": "class Client < ActiveRecord::Base",
+									"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 5,
+							"file": "/home/bondarolik/Projects/fwfSistemas/sanetizados/app/views/usuarios/index.html.erb",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 120,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										106,
+										106
+									]
+								],
+								"settings":
+								{
+									"auto_name": "index.html.erb",
+									"syntax": "Packages/Rails/HTML (Rails).sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 21.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 38.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 251.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 15,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/bondarolik/Projects/[ FREELANCE ] wences.sublime-workspace",
+			"/home/bondarolik/Projects/[ FWFSISTEMAS ] FuenteNatural.sublime-workspace",
+			"/home/bondarolik/Projects/cloudcdmanager.sublime-workspace"
+		]
+	}
+}
